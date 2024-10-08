@@ -9,12 +9,12 @@
 - ยังไม่แน่ใจ แต่ถ้าหากตรวจจะไม่รับผิดชอบใดๆทั้งสิ้นเพราะเป็น Project ทำขึ้นมาเพื่อการศึกษายามว่าง
 - Not sure but if it detected i will not responed anything happend to you because this program has been created for educational purposes
 # How to usage it❓
-TH
+## TH
 - โหลดจาก Release
 - แตกไฟล์
 - เปิด Discord RPC Identity V.exe 
 - เข้าเกม
-EN
+## EN
 - Download it from release
 - Unzip it
 - Open Discord RPC Identity V.exe
